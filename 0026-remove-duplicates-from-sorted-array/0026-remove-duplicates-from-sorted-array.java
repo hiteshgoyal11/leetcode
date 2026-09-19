@@ -4,11 +4,13 @@ class Solution {
             return 0;
         }
         int i = 0;
-        for(int j=1; j<nums.length; j++) {
+        int j = 1;
+        while(j < nums.length) {
             if(nums[j] != nums[i]) {
                 i++;
                 nums[i] = nums[j];
             }
+            j++;
         }
         return i+1;
     }

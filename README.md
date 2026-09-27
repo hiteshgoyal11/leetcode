@@ -40,6 +40,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hiteshgoyal11/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/hiteshgoyal11/leetcode/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/hiteshgoyal11/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hiteshgoyal11/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/hiteshgoyal11/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hiteshgoyal11/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -78,9 +79,11 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/hiteshgoyal11/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hiteshgoyal11/leetcode/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/hiteshgoyal11/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hiteshgoyal11/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->

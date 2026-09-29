@@ -23,6 +23,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/hiteshgoyal11/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hiteshgoyal11/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hiteshgoyal11/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/hiteshgoyal11/leetcode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -87,8 +88,13 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/hiteshgoyal11/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hiteshgoyal11/leetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/hiteshgoyal11/leetcode/tree/master/0069-sqrtx) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hiteshgoyal11/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/hiteshgoyal11/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

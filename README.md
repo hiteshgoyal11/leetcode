@@ -12,6 +12,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hiteshgoyal11/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hiteshgoyal11/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/hiteshgoyal11/leetcode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0136-single-number) |
 | [1470-shuffle-the-array](https://github.com/hiteshgoyal11/leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/hiteshgoyal11/leetcode/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -108,4 +109,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hiteshgoyal11/leetcode/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

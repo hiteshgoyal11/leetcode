@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/hiteshgoyal11/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hiteshgoyal11/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hiteshgoyal11/leetcode/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/hiteshgoyal11/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/hiteshgoyal11/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0136-single-number) |
 | [1470-shuffle-the-array](https://github.com/hiteshgoyal11/leetcode/tree/master/1470-shuffle-the-array) |
@@ -18,6 +19,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/hiteshgoyal11/leetcode/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/hiteshgoyal11/leetcode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0136-single-number) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/hiteshgoyal11/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

@@ -14,6 +14,7 @@
 | [0054-spiral-matrix](https://github.com/hiteshgoyal11/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/hiteshgoyal11/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0268-missing-number) |
 | [1470-shuffle-the-array](https://github.com/hiteshgoyal11/leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/hiteshgoyal11/leetcode/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -28,6 +29,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hiteshgoyal11/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hiteshgoyal11/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/hiteshgoyal11/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/hiteshgoyal11/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hiteshgoyal11/leetcode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +98,7 @@
 | [0013-roman-to-integer](https://github.com/hiteshgoyal11/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/hiteshgoyal11/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/hiteshgoyal11/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -115,8 +119,13 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/hiteshgoyal11/leetcode/tree/master/0054-spiral-matrix) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

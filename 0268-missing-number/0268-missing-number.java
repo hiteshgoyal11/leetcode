@@ -1,23 +1,15 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        boolean mn = false;
-        int i;
-        for(i = 0; i <= nums.length; i++) {
-            
-            mn = false;
+        int xor = 0;
 
-            for(int j = 0; j < nums.length; j++) {
-                if(i == nums[j]) {
-                    mn = true;
-                    break;
-                }
-            }
-
-            if(mn == false) {
-                return i;
-            }
+        for(int i = 0; i <= nums.length; i++) {
+            xor = xor ^ i;
         }
 
-        return -1;
+        for(int num : nums) {
+            xor = xor ^ num;
+        }
+
+        return xor;
     }
 }

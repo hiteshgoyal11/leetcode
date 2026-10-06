@@ -16,6 +16,7 @@
 | [0074-search-a-2d-matrix](https://github.com/hiteshgoyal11/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hiteshgoyal11/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/hiteshgoyal11/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0268-missing-number) |
 | [1470-shuffle-the-array](https://github.com/hiteshgoyal11/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/hiteshgoyal11/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -95,6 +96,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/hiteshgoyal11/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hiteshgoyal11/leetcode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/hiteshgoyal11/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -133,6 +135,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/hiteshgoyal11/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |

@@ -72,6 +72,7 @@
 | [0020-valid-parentheses](https://github.com/hiteshgoyal11/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hiteshgoyal11/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/hiteshgoyal11/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/hiteshgoyal11/leetcode/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [0013-roman-to-integer](https://github.com/hiteshgoyal11/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/hiteshgoyal11/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hiteshgoyal11/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/hiteshgoyal11/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -155,6 +157,7 @@
 | [0088-merge-sorted-array](https://github.com/hiteshgoyal11/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/hiteshgoyal11/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hiteshgoyal11/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/hiteshgoyal11/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |

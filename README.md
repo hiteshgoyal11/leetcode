@@ -74,6 +74,7 @@
 | [0125-valid-palindrome](https://github.com/hiteshgoyal11/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/hiteshgoyal11/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/hiteshgoyal11/leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/hiteshgoyal11/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [0242-valid-anagram](https://github.com/hiteshgoyal11/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/hiteshgoyal11/leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/hiteshgoyal11/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -171,8 +173,13 @@
 | ------- |
 | [0169-majority-element](https://github.com/hiteshgoyal11/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/hiteshgoyal11/leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/hiteshgoyal11/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hiteshgoyal11/leetcode/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/hiteshgoyal11/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

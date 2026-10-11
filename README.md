@@ -25,6 +25,7 @@
 | [0268-missing-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hiteshgoyal11/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hiteshgoyal11/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/hiteshgoyal11/leetcode/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/hiteshgoyal11/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/hiteshgoyal11/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/hiteshgoyal11/leetcode/tree/master/1929-concatenation-of-array) |
@@ -42,6 +43,7 @@
 | [0069-sqrtx](https://github.com/hiteshgoyal11/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/hiteshgoyal11/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/hiteshgoyal11/leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |

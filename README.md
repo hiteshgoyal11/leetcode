@@ -31,6 +31,7 @@
 | [0485-max-consecutive-ones](https://github.com/hiteshgoyal11/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/hiteshgoyal11/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/hiteshgoyal11/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/hiteshgoyal11/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/hiteshgoyal11/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/hiteshgoyal11/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/hiteshgoyal11/leetcode/tree/master/1929-concatenation-of-array) |
@@ -75,6 +76,7 @@
 | [0283-move-zeroes](https://github.com/hiteshgoyal11/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/hiteshgoyal11/leetcode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/hiteshgoyal11/leetcode/tree/master/0541-reverse-string-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/hiteshgoyal11/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -185,6 +187,7 @@
 | [0217-contains-duplicate](https://github.com/hiteshgoyal11/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hiteshgoyal11/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/hiteshgoyal11/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
 | ------- |

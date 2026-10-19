@@ -24,6 +24,7 @@
 | [0162-find-peak-element](https://github.com/hiteshgoyal11/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/hiteshgoyal11/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/hiteshgoyal11/leetcode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/hiteshgoyal11/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/hiteshgoyal11/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/hiteshgoyal11/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0268-missing-number) |
@@ -51,6 +52,7 @@
 | [0074-search-a-2d-matrix](https://github.com/hiteshgoyal11/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hiteshgoyal11/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/hiteshgoyal11/leetcode/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/hiteshgoyal11/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/hiteshgoyal11/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/hiteshgoyal11/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -193,6 +195,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/hiteshgoyal11/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/hiteshgoyal11/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/hiteshgoyal11/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Counting
@@ -212,6 +215,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/hiteshgoyal11/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/hiteshgoyal11/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hiteshgoyal11/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->

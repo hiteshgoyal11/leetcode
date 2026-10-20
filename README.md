@@ -97,6 +97,7 @@
 | [0344-reverse-string](https://github.com/hiteshgoyal11/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/hiteshgoyal11/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hiteshgoyal11/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/hiteshgoyal11/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/hiteshgoyal11/leetcode/tree/master/0541-reverse-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hiteshgoyal11/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Trie
@@ -146,6 +147,7 @@
 | [0290-word-pattern](https://github.com/hiteshgoyal11/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/hiteshgoyal11/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hiteshgoyal11/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/hiteshgoyal11/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Math
 |  |
 | ------- |
@@ -216,6 +218,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hiteshgoyal11/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/hiteshgoyal11/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/hiteshgoyal11/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hiteshgoyal11/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->

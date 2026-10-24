@@ -76,6 +76,7 @@
 | [0088-merge-sorted-array](https://github.com/hiteshgoyal11/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/hiteshgoyal11/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/hiteshgoyal11/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/hiteshgoyal11/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/hiteshgoyal11/leetcode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/hiteshgoyal11/leetcode/tree/master/0541-reverse-string-ii) |
@@ -144,6 +145,7 @@
 | [0012-integer-to-roman](https://github.com/hiteshgoyal11/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hiteshgoyal11/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/hiteshgoyal11/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/hiteshgoyal11/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/hiteshgoyal11/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hiteshgoyal11/leetcode/tree/master/0242-valid-anagram) |
@@ -162,6 +164,7 @@
 | [0066-plus-one](https://github.com/hiteshgoyal11/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/hiteshgoyal11/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/hiteshgoyal11/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0509-fibonacci-number) |
 ## Linked List
@@ -238,4 +241,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0509-fibonacci-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

@@ -13,6 +13,7 @@
 | [0027-remove-element](https://github.com/hiteshgoyal11/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hiteshgoyal11/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hiteshgoyal11/leetcode/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/hiteshgoyal11/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/hiteshgoyal11/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/hiteshgoyal11/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/hiteshgoyal11/leetcode/tree/master/0066-plus-one) |
@@ -253,5 +254,10 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/hiteshgoyal11/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/hiteshgoyal11/leetcode/tree/master/0078-subsets) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/hiteshgoyal11/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->

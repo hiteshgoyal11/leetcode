@@ -24,8 +24,13 @@ class Solution {
                 sum += l2.val;
                 l2 = l2.next;
             }
-            carry = sum / 10;
-            temp.next = new ListNode(sum % 10);
+            if (sum > 9) {
+                carry = 1;
+                sum -= 10;
+            } else {
+                carry = 0;
+            }
+            temp.next = new ListNode(sum);
             temp = temp.next;
         }
         return dummy.next;

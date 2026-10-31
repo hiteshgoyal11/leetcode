@@ -33,6 +33,9 @@ class Solution {
             temp.next = new ListNode(sum);
             temp = temp.next;
         }
+        if (carry == 1) {
+            temp.next = new ListNode(1);
+        }
         return dummy.next;
     }
 }

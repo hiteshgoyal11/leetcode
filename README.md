@@ -162,6 +162,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/hiteshgoyal11/leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/hiteshgoyal11/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hiteshgoyal11/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/hiteshgoyal11/leetcode/tree/master/0066-plus-one) |
@@ -174,6 +175,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/hiteshgoyal11/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hiteshgoyal11/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/hiteshgoyal11/leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Newton's Method
@@ -242,6 +244,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/hiteshgoyal11/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/hiteshgoyal11/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization

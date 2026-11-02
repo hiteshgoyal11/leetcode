@@ -10,7 +10,6 @@ class Solution {
                 maxCount = count;
             }
             if(nums[i] == 0) {
-                count = count;
                 count = 0;
             }
         }

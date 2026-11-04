@@ -1,31 +1,28 @@
 class Solution {
     public int myAtoi(String s) {
-        int i = 0;
-        int n = s.length();
-        int sign = 1;
-        int result = 0;
-        int min = Integer.MAX_VALUE;
-
-        while (i < n && s.charAt(i) == ' ') {
-            i++;
-        }
-
+        iint INT_MAX = 2147483647, INT_MIN = -2147483648;
+        int i = 0, n = s.length(), sign = 1, result = 0;
+        
+        // Step 1: Skip leading whitespace
+        while (i < n && s.charAt(i) == ' ') i++;
+        
+        // Step 2: Check for optional sign
         if (i < n && (s.charAt(i) == '-' || s.charAt(i) == '+')) {
-            sign = (s.charAt(i) == '-') ? -1 : 1;
+            sign = s.charAt(i) == '-' ? -1 : 1;
             i++;
         }
-
-        while(i < n && s.charAt(i) >= '0' && s.charAt(i) <= '9') {
+        
+        // Step 3: Convert digits to integer
+        while (i < n && Character.isDigit(s.charAt(i))) {
             int digit = s.charAt(i) - '0';
-
-            if(result > min / 10 || (result == min / 10 && digit > 7)) {
-                return sign == 1 ? min : Integer.MIN_VALUE;
+            // Check for overflow
+            if (result > (INT_MAX - digit) / 10) {
+                return sign == 1 ? INT_MAX : INT_MIN;
             }
-
             result = result * 10 + digit;
             i++;
         }
-
-        return result * sign;
+        
+        return sign * result;
     }
 }

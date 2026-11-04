@@ -1,59 +1,32 @@
 class Solution {
     public int myAtoi(String s) {
-        // Remove leading and trailing spaces
-        s = s.trim();
-
-        // sign stores +1 or -1
-        // i tells us which character we are currently reading
-        int i = 0, sign = 1;
-
-        // Store the number while building it
-        // long helps us handle overflow safely
-        long res = 0;
-
-        // Empty string after trim
-        if(s.length() == 0) {
-            return 0;
-        }
-
-        // Check for negative sign
-        if(s.charAt(0) == '-') {
-            sign = -1;
+        int i=0;
+        int n=s.length();
+        while(i<n && s.charAt(i)==' '){
             i++;
         }
-        // Check for positive sign
-        else if(s.charAt(0) == '+') {
+        int sign =1;
+        if(i<n && s.charAt(i)=='-'){
+            sign=-1;
             i++;
         }
-
-        // Read digits
-        while(i < s.length()) {
-
-            char ch = s.charAt(i);
-
-            // Stop at the first non-digit character
-            if(ch < '0' || ch > '9') {
-                break;
-            }
-
-            // Convert character to digit and add it to res
-            res = res * 10 + (ch - '0');
-
-            // Handle positive overflow
-            if(sign * res > Integer.MAX_VALUE) {
-                return Integer.MAX_VALUE;
-            }
-
-            // Handle negative overflow
-            if(sign * res < Integer.MIN_VALUE) {
-                return Integer.MIN_VALUE;
-            }
-
-            // Move to the next character
+        else if(i<n && s.charAt(i)=='+'){
             i++;
         }
-
-        // Apply the sign and return the result
-        return (int) (res * sign);
+        int result =0;
+        while(i<n && s.charAt(i)>='0' && s.charAt(i)<='9'){
+            int digit =s.charAt(i)-'0';
+            if(result>Integer.MAX_VALUE / 10 || (result==Integer.MAX_VALUE /10 && digit>7)){
+                if(sign==1){
+                    return Integer.MAX_VALUE;
+                } else {
+                    return Integer.MIN_VALUE;
+                }
+                
+            }
+           result = result * 10 + digit;
+                i++;
+        }
+         return result*sign;
     }
 }

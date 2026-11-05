@@ -36,6 +36,7 @@
 | [0704-binary-search](https://github.com/hiteshgoyal11/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/hiteshgoyal11/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/hiteshgoyal11/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1019-next-greater-node-in-linked-list](https://github.com/hiteshgoyal11/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1470-shuffle-the-array](https://github.com/hiteshgoyal11/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/hiteshgoyal11/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/hiteshgoyal11/leetcode/tree/master/1929-concatenation-of-array) |
@@ -181,6 +182,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/hiteshgoyal11/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/hiteshgoyal11/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/hiteshgoyal11/leetcode/tree/master/0206-reverse-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/hiteshgoyal11/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Newton's Method
 |  |
 | ------- |
@@ -189,6 +191,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hiteshgoyal11/leetcode/tree/master/0020-valid-parentheses) |
+| [1019-next-greater-node-in-linked-list](https://github.com/hiteshgoyal11/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -269,4 +272,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/hiteshgoyal11/leetcode/tree/master/0051-n-queens) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/hiteshgoyal11/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->

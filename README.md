@@ -19,6 +19,7 @@
 | [0066-plus-one](https://github.com/hiteshgoyal11/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/hiteshgoyal11/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/hiteshgoyal11/leetcode/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/hiteshgoyal11/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/hiteshgoyal11/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hiteshgoyal11/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hiteshgoyal11/leetcode/tree/master/0136-single-number) |
@@ -191,6 +192,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hiteshgoyal11/leetcode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/hiteshgoyal11/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1019-next-greater-node-in-linked-list](https://github.com/hiteshgoyal11/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Bracket Sequences
 |  |
@@ -275,5 +277,10 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/hiteshgoyal11/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1019-next-greater-node-in-linked-list](https://github.com/hiteshgoyal11/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/hiteshgoyal11/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
